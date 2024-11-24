@@ -40,7 +40,6 @@ import Sidebar from "./components/Sidebar";
 import Bin from "./components/Bin";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import './index.css'
 
 function App() {
   const [isSidebarOpen, setSidebarOpen] = useState(false);
